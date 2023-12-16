@@ -1,1 +1,4 @@
 # coder
+
+MY NAME IS RAJ ARYAN.
+I AM STUDYING AT JUET. 
